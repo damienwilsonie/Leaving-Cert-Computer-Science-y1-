@@ -1,1 +1,0 @@
-print ("Answer: 25")
